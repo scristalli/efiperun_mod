@@ -1,4 +1,5 @@
 *.o
-jemalloc*
+jemalloc-3.6.0/
+jemalloc_custom.*
 acpi/
 efiperun
